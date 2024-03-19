@@ -10,6 +10,7 @@
         "cakephp/migrations": "^3.7",
         "cakephp/plugin-installer": "^1.3",
         "mobiledetect/mobiledetectlib": "^3.74",
+        "nfe/nfe": "^2.5",
         "nfephp-org/sped-nfse-ginfes": "dev-master"
     },
     "require-dev": {
